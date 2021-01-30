@@ -1,0 +1,23 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurSenpaii/twitter-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurSenpaii/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/ArthurSenpaii/twitter-bot#readme",
+  "dependencies": {
+    "cleverbot-free": "^1.0.5",
+    "twitter": "^1.7.1"
+  }
+}
